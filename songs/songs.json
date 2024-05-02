@@ -1,0 +1,44 @@
+[
+  {
+    "image": "songs/song-1/cover-1.png",
+    "name": "Lost in the City Lights",
+    "composer": "Cosmo Sheldrake",
+    "source": "songs/song-1/lost-in-city-lights-145038.mp3"
+  },
+  {
+    "image": "songs/song-2/cover-2.png",
+    "source": "songs/song-2/forest-lullaby-110624.mp3",
+    "name": "Forest Lullaby",
+    "composer": "Lesfm"
+  },
+  {
+    "source": "songs/song-3/Arabic Dance.mp3",
+    "image": "songs/song-3/f95884e9458ba43c6e4e1246b663cf612c7e27fd-3000x3000.webp",
+    "name": "Arabic Dance",
+    "composer": "Lesfm"
+  },
+  {
+    "image": "songs/song-4/6110a6f3821ffdce68091b4e2ce64d091d6bf5ce-3000x3000.webp",
+    "source": "songs/song-4/Goa .mp3",
+    "name": "Goa",
+    "composer": "Lesfm"
+  },
+  {
+    "image": "songs/song-5/40f747457f031131fa93b819c23b30e17632f6ea-2975x2975.webp",
+    "source": "songs/song-5/Arabian night.mp3",
+    "name": "Arabian night",
+    "composer": "Cosmo Sheldrake"
+  },
+  {
+    "image": "songs/song-6/6110a6f3821ffdce68091b4e2ce64d091d6bf5ce-3000x3000.webp",
+    "source": "songs/song-6/India .mp3",
+    "name": "India",
+    "composer": "Lesfm"
+  },
+  {
+    "image": "songs/song-7/6110a6f3821ffdce68091b4e2ce64d091d6bf5ce-3000x3000.webp",
+    "source": "songs/song-7/Bollywood .mp3",
+    "name": "Bollywood",
+    "composer": "Lesfm"
+  }
+]

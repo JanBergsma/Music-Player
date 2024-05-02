@@ -1,0 +1,13 @@
+{
+  "extends": ["stylelint-config-standard"],
+  "plugins": ["stylelint-prettier"],
+  "rules": {
+    "prettier/prettier": true,
+    "selector-class-pattern": [
+      "^[a-z]([-]?[a-z0-9]+)*(__[a-z0-9]([-]?[a-z0-9]+)*)?(--[a-z0-9]([-]?[a-z0-9]+)*)?$",
+      {
+        "message": "Pattern \"%s\" should match BEM CSS pattern https://getbem.com/naming/. Selector validation tool: https://regexr.com/3apms"
+      }
+    ]
+  }
+}
