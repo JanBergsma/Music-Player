@@ -21,15 +21,20 @@
   <body>
     <main id="player">
       <img
+        id="player-song-image"
         class="player__song-image"
         src="songs/song-1/cover-1.png"
         alt="song's image"
       />
       <header>
-        <h2 class="player__song-title">Lost in the City Lights</h2>
-        <h3 class="player__song-author">Cosmo Sheldrake</h3>
+        <h2 id="player-song-title" class="player__song-title">
+          Lost in the City Lights
+        </h2>
+        <h3 id="player-song-author" class="player__song-author">
+          Cosmo Sheldrake
+        </h3>
       </header>
-      <audio id="player__audio"></audio>
+      <audio id="player-audio"></audio>
       <div class="player-controls">
         <div id="player-progressbar">
           <div id="player-times">

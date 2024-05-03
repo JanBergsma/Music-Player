@@ -30,6 +30,7 @@ body {
 
 .player__song-image {
   border-radius: 15px;
+  height: 300px;
 }
 
 .player__song-title {
@@ -68,7 +69,7 @@ body {
   position: relative;
   border-radius: 20px;
   background-color: #c93b76;
-  width: 230px;
+  width: 0;
   height: 4px;
 }
 
